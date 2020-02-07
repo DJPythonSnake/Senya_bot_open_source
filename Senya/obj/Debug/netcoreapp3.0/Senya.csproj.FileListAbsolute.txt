@@ -1,0 +1,11 @@
+D:\Sublime_Text\prod\C#\Senya\bin\Debug\netcoreapp3.0\Senya.exe
+D:\Sublime_Text\prod\C#\Senya\bin\Debug\netcoreapp3.0\Senya.deps.json
+D:\Sublime_Text\prod\C#\Senya\bin\Debug\netcoreapp3.0\Senya.runtimeconfig.json
+D:\Sublime_Text\prod\C#\Senya\bin\Debug\netcoreapp3.0\Senya.runtimeconfig.dev.json
+D:\Sublime_Text\prod\C#\Senya\bin\Debug\netcoreapp3.0\Senya.dll
+D:\Sublime_Text\prod\C#\Senya\bin\Debug\netcoreapp3.0\Senya.pdb
+D:\Sublime_Text\prod\C#\Senya\obj\Debug\netcoreapp3.0\Senya.csprojAssemblyReference.cache
+D:\Sublime_Text\prod\C#\Senya\obj\Debug\netcoreapp3.0\Senya.AssemblyInfoInputs.cache
+D:\Sublime_Text\prod\C#\Senya\obj\Debug\netcoreapp3.0\Senya.AssemblyInfo.cs
+D:\Sublime_Text\prod\C#\Senya\obj\Debug\netcoreapp3.0\Senya.dll
+D:\Sublime_Text\prod\C#\Senya\obj\Debug\netcoreapp3.0\Senya.pdb
