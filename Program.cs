@@ -52,6 +52,7 @@ namespace Senya
                     Console.WriteLine("Пока");
                     Thread.Sleep(30000);
 
+
                 }
                 else if (answer == "функция")
                 {
@@ -115,6 +116,12 @@ namespace Senya
                     Console.Clear();
                     Program.Saing();
                 }
+                else
+                {
+                    Console.Write("Напиши Enter чтобы выйти");
+                    while(Console.ReadKey().Key != ConsoleKey.Enter){}
+                }
+                break;
 
             }
             
